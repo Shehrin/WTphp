@@ -132,7 +132,7 @@
 		
 			<fieldset>
 			<legend><h1>Club Member Registration</h1></legend>
-			<form action="" method="">
+			<form action="" method="POST">
 			<table>
 			    <tr>
 					<td><span><b>Name:</b></span></td>
